@@ -1,0 +1,68 @@
+* { 
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+        font-family: "Poppins", sans-serif;
+        align-content: center;
+
+}
+
+body { 
+        background-color: black;
+}
+
+.headervid {
+
+        height: 100%;
+        width: 100%;
+}
+
+header { 
+
+        color: darkred; 
+        font-size: 35px;
+        font-weight: bold;
+        text-align: center;
+        line-height: 80px;
+        background-color: rgb(22, 22, 22);
+}
+
+a { 
+
+        color: darkred;
+        font-size: 17px;
+        text-transform: uppercase;
+
+}
+
+.Beepbox {
+        translate: 100px 100px;
+}
+
+.Beepbox h1 {
+
+        color: darkred;
+        margin-bottom: 20px;
+}
+
+.FL { 
+        translate: 100px 100px;
+}
+
+.FL h1 {
+
+        color: darkred;
+        margin-top: 45px;
+        margin-bottom: 20x;
+}
+
+.Remixes {
+        translate: 100px 100px;
+}
+
+.Remixes h1 {
+
+        color: darkred;
+        margin-top: 45px;
+        margin-bottom: 20x;
+}
